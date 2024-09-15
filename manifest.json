@@ -1,0 +1,11 @@
+{
+    "name": "Awasome info",
+    "version": "1.0.0",
+    "description": "This is an extension to show relevant info",
+    "manifest_version": 3,
+    "author": "Julio C. Quintana Zaez",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Awasome info"
+    }
+}
